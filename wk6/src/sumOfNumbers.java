@@ -19,7 +19,7 @@ public class sumOfNumbers {
             System.out.println("Sum of numbers from 1 to " + count + " is " + result);
         }
         else if(count == 0){
-
+            System.out.println("Hey, I said non-zero");
         }
         else{
             System.out.println("Hey, I said positive");
